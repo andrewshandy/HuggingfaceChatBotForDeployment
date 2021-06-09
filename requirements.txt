@@ -1,2 +1,2 @@
 import streamlit
-from transformers
+import transformers
