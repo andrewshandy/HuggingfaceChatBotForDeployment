@@ -1,1 +1,2 @@
 streamlit==0.80.0
+transformers==4.5.0
